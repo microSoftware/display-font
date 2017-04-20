@@ -14,7 +14,7 @@ app.get('/', function(req, res) {
 			//these examples words work and don't work for this specific font.
 			//word that don't work  : my word, "macbook","ozco"
 			//words that don't work :okit, gras, Rock, Free
-			var word = "aac";
+			var word = "okitlaks";
 			var fontSize = 39;
 			var optionText = {
                 letterSpacing: 0.1,
